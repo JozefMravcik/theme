@@ -186,7 +186,7 @@
         "WHITE_630": "#676977"
     },
     "background": {
-        "blur": 0.1,
+        "blur": 0.5,
         "url": "https://i.imgur.com/nJ1Pj3p.png"
     },
     "plus": {
