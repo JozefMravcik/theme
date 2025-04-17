@@ -1,7 +1,7 @@
 {
     "name": "Rosie Darker",
     "description": "🐱:3",
-    "version": "6.0",
+    "version": "7.0",
     "authors": [
       {
         "name": "Me",
@@ -28,7 +28,7 @@
         "CARD_PRIMARY_BG": [ "#1b1b21" ],
         "CARD_PRIMARY_PRESSED_BG": [ "#535260" ],
         "CARD_SECONDARY_BG": [ "#2B2833" ],
-        "CHANNEL_ICON": [ "#BBC4F8" ],
+        "CHANNEL_ICON": [ "#9b86d9" ],
         "CHANNELS_DEFAULT": [ "#b6b6b6" ],
         "CHANNELTEXTAREA_BACKGROUND": [ "#111" ],
         "CHAT_BACKGROUND": [ "#15151a" ],
@@ -44,7 +44,7 @@
         "TEXT_NORMAL": [ "#fbfbfb" ],
         "TEXT_MUTED": [ "#929ce7" ],
         "TEXT_PRIMARY": [ "#dbdee1" ],
-        "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
+        "THREAD_CHANNEL_SPINE": [ "#9b86d9" ],
         "BG_BASE_PRIMARY": [ "#15151a" ],
         "BG_BASE_SECONDARY": [ "#1c1b22" ],
         "BG_BASE_TERTIARY": [ "#15151a" ],
@@ -55,14 +55,14 @@
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#3B394B" ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#494758" ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#1c1d24" ],
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#BBC4F8" ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#9b86d9" ],
         "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1c1d24" ],
         "MENTION_FOREGROUND": [ "#582d9c" ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#BBC4F8",
+        "PRIMARY_200": "#9b86d9",
         "PRIMARY_300": "#fffeff",
         "PRIMARY_330": "#c6cae7",
         "PRIMARY_360": "#fcfdfc",
