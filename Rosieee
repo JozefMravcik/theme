@@ -33,7 +33,7 @@
         "CHANNELTEXTAREA_BACKGROUND": [ "#111" ],
         "CHAT_BACKGROUND": [ "#15151a" ],
         "EMBED_BACKGROUND": [ "#2B2833" ],
-        "HEADER_PRIMARY": [ "#a1b7ff" ],
+        "HEADER_PRIMARY": [ "#f1f1f1" ],
         "HEADER_SECONDARY": [ "#fffeff" ],
         "INPUT_BACKGROUND": [ "#16151b" ],
         "INTERACTIVE_ACTIVE": [ "#ffffff" ],
