@@ -1,7 +1,7 @@
 {
     "name": "Rosie Darker",
     "description": "🐱:3",
-    "version": "9.0",
+    "version": "1.0",
     "authors": [
       {
         "name": "Me",
@@ -64,12 +64,12 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#9b86d9",
         "PRIMARY_300": "#fffeff",
-        "PRIMARY_330": "#c6cae7",
+        "PRIMARY_330": "#ff0000",
         "PRIMARY_360": "#fcfdfc",
-        "PRIMARY_400": "#bebee3",
+        "PRIMARY_400": "#ff0000",
         "PRIMARY_460": "#363849",
-        "PRIMARY_500": "#8C9CE6",
-        "PRIMARY_530": "#6E87D4",
+        "PRIMARY_500": "#ff0000",
+        "PRIMARY_530": "#ff0000",
         "PRIMARY_600": "#15151a",
         "PRIMARY_630": "#323442",
         "PRIMARY_645": "#25262e",
