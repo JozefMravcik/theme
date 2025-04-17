@@ -1,7 +1,7 @@
 {
     "name": "Rosie Darker",
     "description": "🐱:3",
-    "version": "5.0",
+    "version": "4.0",
     "authors": [
       {
         "name": "Me",
@@ -11,7 +11,7 @@
     "semanticColors": {
         "ANDROID_RIPPLE": [ "#535260" ],
         "BACKGROUND_ACCENT": [ "#B5BDFF" ],
-        "BACKGROUND_MENTIONED": [ "#97B9F417" ],
+        "BACKGROUND_MENTIONED": [ "#9b98f5" ],
         "BACKGROUND_MENTIONED_HOVER": [ "#ABB3FF80" ],
         "BACKGROUND_MESSAGE_HOVER": [ "#ffffff05" ],
         "BACKGROUND_MODIFIER_ACCENT": [ "#15151a" ],
