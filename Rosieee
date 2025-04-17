@@ -1,10 +1,10 @@
 {
     "name": "Rosie Darker",
     "description": "🐱:3",
-    "version": "2.00",
+    "version": "3.0",
     "authors": [
       {
-        "name": "Moodles",
+        "name": "Me",
         "id": "807170846497570848"
       }
     ],
@@ -47,7 +47,7 @@
         "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
         "BG_BASE_PRIMARY": [ "#15151a" ],
         "BG_BASE_SECONDARY": [ "#1c1b22" ],
-        "BG_BASE_TERTIARY": [ "#202028" ],
+        "BG_BASE_TERTIARY": [ "#15151a" ],
         "BG_MOD_FAINT": [ "#444664" ],
         "BG_MOD_STRONG": [ "#363749" ],
         "BG_MOD_SUBTLE": [ "#697eab29" ],
