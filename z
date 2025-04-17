@@ -42,7 +42,7 @@
   "INTERACTIVE_NORMAL": [ "#1f1f1f" ],
   "TEXT_LINK": [ "#91a4ff" ],
   "TEXT_NORMAL": [ "#1f1f1f" ],
-  "TEXT_MUTED": [ "#f1f1f1" ],
+  "TEXT_MUTED": [ "#1f1f1f" ],
   "TEXT_PRIMARY": [ "#dbdee1" ],
   "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
   "BG_BASE_PRIMARY": [ "#24232b" ],
