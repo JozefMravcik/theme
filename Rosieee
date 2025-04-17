@@ -1,10 +1,10 @@
 {
     "name": "Rosie Darker",
     "description": "🐱:3",
-    "version": "69.0",
+    "version": "2.0",
     "authors": [
       {
-        "name": "ME",
+        "name": "Moodles",
         "id": "807170846497570848"
       }
     ],
@@ -25,7 +25,7 @@
         "BACKGROUND_SECONDARY": [ "#2B2833" ],
         "BACKGROUND_SECONDARY_ALT": [ "#19191f" ],
         "BORDER_FAINT": [ "#494C69" ], 
-        "CARD_PRIMARY_BG": [ "#15151a" ],
+        "CARD_PRIMARY_BG": [ "#1b1b21" ],
         "CARD_PRIMARY_PRESSED_BG": [ "#535260" ],
         "CARD_SECONDARY_BG": [ "#2B2833" ],
         "CHANNEL_ICON": [ "#BBC4F8" ],
